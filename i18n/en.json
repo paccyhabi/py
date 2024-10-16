@@ -1,0 +1,14 @@
+{
+  "welcome": "Welcome to our system!",
+  "register_username": "Please register by entering your username:",
+  "register_email": "Enter your email:",
+  "register_password": "Enter your password:",
+  "registration_successful": "Registration successful! You can now make appointments.",
+  "enter_password": "Enter your password:",
+  "wrong_password": "Incorrect password. Please try again.",
+  "select_slot": "Select an appointment slot:\n1. Morning (8:00 - 12:00)\n2. Afternoon (1:00 - 4:00)",
+  "enter_village": "Enter your village:",
+  "enter_reason": "Enter the reason for your appointment:",
+  "appointment_successful": "Your appointment has been successfully created.",
+  "language_selection": "Select a language:\n1. English\n2. Kinyarwanda"
+}

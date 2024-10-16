@@ -1,0 +1,14 @@
+{
+  "welcome": "Murakaza neza muri sisitemu yacu!",
+  "register_username": "Andika izina ryawe:",
+  "register_email": "Injiza email yawe:",
+  "register_password": "Andika ijambo ry'ibanga:",
+  "registration_successful": "Kwiyandikisha byagenze neza! Ubu ushobora gukora gahunda.",
+  "enter_password": "Andika ijambo ry'ibanga:",
+  "wrong_password": "Ijambo ry'ibanga si ryo. Ongera ugerageze.",
+  "select_slot": "Hitamo igihe cyo kubonana:\n1. Mu gitondo (8:00 - 12:00)\n2. Nyuma ya saa sita (1:00 - 4:00)",
+  "enter_village": "Andika umudugudu wawe:",
+  "enter_reason": "Tanga impamvu yo kubonana:",
+  "appointment_successful": "Gahunda yawe yashyizweho neza.",
+  "language_selection": "Hitamo ururimi:\n1. Icyongereza\n2. Ikinyarwanda"
+}
