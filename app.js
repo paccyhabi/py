@@ -18,7 +18,7 @@ app.use(session({
   secret: 'your_secret_key',  // Replace with a strong secret
   resave: false,
   saveUninitialized: true,
-  cookie: { secure: false }    // Set to true if using HTTPS
+  cookie: { secure: true }    // Set to true if using HTTPS
 }));
 
 // Load language translations
